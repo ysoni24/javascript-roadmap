@@ -154,6 +154,10 @@ This roadmap is designed for anyone wanting to learn JavaScript in 2025. Whether
 - "JavaScript: The Good Parts" by Douglas Crockford
 
 ### Online Courses
+- [JS Playlist in Hindi](https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+- [Crash Course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Udemy Course 1](https://www.udemy.com/course/the-complete-javascript-course/)
+- [Udemy Course 2](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=ST18MT12125)
 - [JavaScript30](https://javascript30.com/)
 - [freeCodeCamp JavaScript Curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
